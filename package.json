@@ -1,0 +1,11 @@
+{
+  "name": "click-the-cat",
+  "version": "1.0.0",
+  "description": "A modern one-click web game: Click the Cat!",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
